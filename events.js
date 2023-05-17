@@ -1,3 +1,5 @@
+/* AUTHOR: JONATHAN IVANY */
+
 // Events is a core module in javascript that allows you to create and handle custom events within an application.
 
 // To use events you are provided an EventEmitter class which is used to emit an event or listen for one which then triggers the associated block of code
